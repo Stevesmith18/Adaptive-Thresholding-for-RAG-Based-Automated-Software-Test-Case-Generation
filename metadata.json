@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive RAG TestGen Workbench",
+  "description": "Adaptive Thresholding for RAG-Based Automated Software Test Case Generation extending IEEE Access 2026 multi-LLM ensemble research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
